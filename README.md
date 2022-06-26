@@ -2,6 +2,10 @@
 This is the file repository for D&amp;D related files
 Here is a list of D&D Resources - Everything here is either system agnostic or D&D 5E unless otherwise specified.
 
+I've also created a Discord channel, should we ever need it
+
+- Discord: ["The Owlbear Outpost"](https://discord.gg/jJWVAtcr)
+
 - [Mega Resources](#mega-resources)
 - [Web Tools](#web-tools)
     - [Adventures](#adventures)
